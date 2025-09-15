@@ -1,0 +1,22 @@
+# Ignore downloaded files
+downloads/
+
+# Ignore virtual environment
+temp_env/
+
+# Ignore Flask session files
+flask_session/
+
+# Ignore credentials and service account keys
+credentials.json
+credentials2.json
+credentials2__.json
+service_acc.json
+
+#Ignore any file starting with credentials
+credentials*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
