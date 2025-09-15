@@ -20,3 +20,5 @@ credentials*.json
 __pycache__/
 *.pyc
 *.pyo
+
+temp_venv/
